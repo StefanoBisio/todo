@@ -15,7 +15,6 @@ $(document).ready(function () {
             //      Prevents jquery from deleting it immediately
             event.preventDefault();
         } else {
-            event.preventDefault();
 
         }
     }
